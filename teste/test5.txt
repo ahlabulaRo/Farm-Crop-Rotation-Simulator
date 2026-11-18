@@ -1,0 +1,8 @@
+2 2 8 100 3
+usturoi 4 58 211
+morcov 2 44 128
+porumb 3 49 261
+ROTATIE 3
+usturoi N/A
+morcov N/A
+porumb usturoi

@@ -1,0 +1,35 @@
+30 30 45 1000 15
+fasole 5 73 100
+telina 5 32 166
+varza 4 28 142
+vinete 4 57 211
+patrunjel 3 13 101
+spanac 3 29 118
+usturoi 4 48 249
+dovlecel 3 54 211
+conopida 3 42 214
+ceapa 2 29 148
+rosie 6 51 368
+salata 1 17 85
+ardei 3 76 226
+porumb 3 48 237
+castravete 4 58 315
+ROTATIE 18
+fasole N/A
+telina fasole
+varza fasole
+vinete varza
+patrunjel fasole
+spanac vinete
+usturoi vinete
+dovlecel usturoi
+conopida spanac
+ceapa usturoi
+rosie conopida
+salata ceapa
+ardei patrunjel
+porumb ardei
+castravete conopida
+ceapa salata
+rosie telina
+salata ardei

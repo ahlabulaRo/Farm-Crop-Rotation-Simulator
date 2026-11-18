@@ -1,0 +1,47 @@
+99 99 45 300 20
+usturoi 6 44 185
+telina 5 38 149
+varza 4 27 124
+morcov 4 30 143
+brocoli 5 66 206
+spanac 2 33 107
+porumb 5 44 230
+ridichi 4 23 118
+salata 2 24 74
+conopida 3 65 208
+fasole 3 45 172
+cartofi 3 43 195
+castravete 4 52 270
+patrunjel 1 20 76
+ardei 4 66 236
+rosie 5 89 352
+ceapa 2 29 159
+vinete 3 70 297
+dovlecel 2 59 231
+mazare 2 41 118
+ROTATIE 25
+usturoi N/A
+telina N/A
+varza usturoi
+morcov usturoi
+brocoli telina
+spanac varza
+porumb brocoli
+ridichi telina
+salata telina
+conopida salata
+fasole brocoli
+cartofi fasole
+castravete fasole
+patrunjel varza
+ardei porumb
+rosie ardei
+ceapa ardei
+vinete rosie
+dovlecel rosie
+mazare morcov
+porumb vinete
+cartofi porumb
+patrunjel morcov
+mazare spanac
+fasole conopida

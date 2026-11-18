@@ -1,0 +1,15 @@
+4 4 150 1000 5
+ardei 3 78 250
+conopida 3 65 296
+salata 1 21 107
+mazare 2 59 288
+spanac 1 21 149
+ROTATIE 8
+ardei N/A
+conopida ardei
+salata conopida
+mazare salata
+spanac ardei
+salata mazare
+spanac salata
+spanac mazare

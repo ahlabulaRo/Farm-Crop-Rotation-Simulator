@@ -1,0 +1,4 @@
+1 1 3 30 1
+mazare 2 35 247
+ROTATIE 1
+mazare N/A

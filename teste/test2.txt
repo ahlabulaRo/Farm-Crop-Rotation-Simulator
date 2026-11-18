@@ -1,0 +1,4 @@
+1 1 4 35 1
+conopida 3 35 304
+ROTATIE 1
+conopida N/A

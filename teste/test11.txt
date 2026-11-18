@@ -1,0 +1,33 @@
+10 10 100 1000 12
+cartofi 4 33 130
+mazare 4 60 196
+rosie 6 81 291
+ceapa 2 29 103
+porumb 3 68 190
+patrunjel 2 14 103
+varza 4 29 164
+dovlecel 4 47 250
+brocoli 3 79 256
+vinete 3 39 238
+fasole 5 46 315
+salata 1 26 130
+ROTATIE 19
+cartofi N/A
+mazare cartofi
+rosie mazare
+ceapa mazare
+porumb cartofi
+patrunjel mazare
+varza cartofi
+dovlecel mazare
+brocoli varza
+vinete brocoli
+fasole varza
+salata vinete
+dovlecel brocoli
+vinete ceapa
+cartofi mazare
+vinete fasole
+brocoli salata
+brocoli patrunjel
+cartofi porumb
